@@ -1,4 +1,4 @@
-# Queue_Stack
+# [Queue, Stack Algorithm](https://github.com/jyjy318/Algorithm/tree/master/Queue_Stack)
 
 |파일명|내용|
 |------|---|
