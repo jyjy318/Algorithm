@@ -1,6 +1,3 @@
-![Minion](https://octodex.github.com/images/minion.png)
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
-
 # [Queue, Stack Algorithm](https://github.com/jyjy318/Algorithm/tree/master/Queue_Stack)
 
 |파일명|내용|
@@ -14,6 +11,12 @@
 |[example1](https://github.com/jyjy318/Algorithm/blob/master/Binary_Search/example1.py)|n명의 사람들이 가장 빠르게 모두 심사를 받는 경우 구하기|
 
 # [CodeUp python 100제](https://github.com/jyjy318/Algorithm/tree/master/CodeUp)
+![Minion](https://octodex.github.com/images/minion.png)
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+
+![Alt text][id]
+
+[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
 # [이것이 코딩 테스트다](https://github.com/Study-Group-This-is-algorithm-test)
 
