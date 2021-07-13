@@ -11,14 +11,16 @@
 |[example1](https://github.com/jyjy318/Algorithm/blob/master/Binary_Search/example1.py)|n명의 사람들이 가장 빠르게 모두 심사를 받는 경우 구하기|
 |[example2](https://github.com/jyjy318/Algorithm/blob/master/Binary_Search/example2.py)|길이가 정해진 막대 자르기|
 
-# [Sort Algorithm]()
+# [Sort Algorithm](https://github.com/jyjy318/Algorithm/tree/master/Sort)
 기본정렬 : 선택정렬, 삽입정렬, 버블정렬 <br/>
 고급정렬 : 힙정렬, 합병정렬, 퀵정렬<br/>
+|파일명|내용|
 |------|---|
-|[]()||
+|[time](https://github.com/jyjy318/Algorithm/blob/master/Sort/time.py)|sort 알고리즘 실행 시간 |
 |[]()||
 
 # [Divide and Conquer Algorithm]()
+|파일명|내용|
 |------|---|
 |[]()||
 |[]()||
