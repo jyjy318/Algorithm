@@ -12,6 +12,8 @@
 |[example2](https://github.com/jyjy318/Algorithm/blob/master/Binary_Search/example2.py)|길이가 정해진 막대 자르기|
 
 # [Sort Algorithm]()
+기본정렬 : 선택정렬, 삽입정렬, 버블정렬 <br/>
+고급정렬 : 힙정렬, 합병정렬, 퀵정렬<br/>
 |------|---|
 |[]()||
 |[]()||
