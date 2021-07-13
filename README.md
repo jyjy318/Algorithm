@@ -26,7 +26,5 @@ https://codeup.kr/problemsetsol.php?psid=33
 
 <img src = "https://octodex.github.com/images/minion.png" width="400px">
 
-출처: https://pongsoyun.tistory.com/125 [palette]
-
 # [이것이 코딩 테스트다](https://github.com/Study-Group-This-is-algorithm-test)
 
