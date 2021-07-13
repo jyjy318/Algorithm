@@ -16,14 +16,12 @@
 고급정렬 : 힙정렬, 합병정렬, 퀵정렬<br/>
 |파일명|내용|
 |------|---|
-|[time](https://github.com/jyjy318/Algorithm/blob/master/Sort/time.py)|sort 알고리즘 실행 시간 |
-|[]()||
+|[time](https://github.com/jyjy318/Algorithm/blob/master/Sort/time.py)|sort 알고리즘 실행 시간, 성능측정 |
 
-# [Divide and Conquer Algorithm]()
+# [Heap Algorithm](https://github.com/jyjy318/Algorithm/tree/master/Heap)
 |파일명|내용|
 |------|---|
-|[]()||
-|[]()||
+|[time](https://github.com/jyjy318/Algorithm/blob/master/Heap/time.py)|Heapq 알고리즘 실행 시간, 성능측정|
 
 # [CodeUp python 100제](https://github.com/jyjy318/Algorithm/tree/master/CodeUp)
 https://codeup.kr/problemsetsol.php?psid=33
