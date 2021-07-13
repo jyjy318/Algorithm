@@ -10,8 +10,7 @@
 |------|---|
 |[example1]()|n명의 사람들이 가장 빠르게 모두 심사를 받는 경우 구하기|
 
-# [이것이 코딩 테스트다](https://github.com/jyjy318/Algorithm/tree/master/StudyWith)
-
 # [CodeUp python 100제](https://github.com/jyjy318/Algorithm/tree/master/CodeUp)
 
+# [이것이 코딩 테스트다](https://github.com/Study-Group-This-is-algorithm-test)
 
