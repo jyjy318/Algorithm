@@ -16,9 +16,14 @@
 |[]()||
 |[]()||
 
+# [Divide and Conquer Algorithm]()
+|------|---|
+|[]()||
+|[]()||
+
 # [CodeUp python 100제](https://github.com/jyjy318/Algorithm/tree/master/CodeUp)
 https://codeup.kr/problemsetsol.php?psid=33
-![Minion](https://octodex.github.com/images/minion.png)
+![Minion](https://octodex.github.com/images/minion.png){: width="50" height="50"}
 
 # [이것이 코딩 테스트다](https://github.com/Study-Group-This-is-algorithm-test)
 
