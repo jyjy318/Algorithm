@@ -34,6 +34,7 @@
 https://codeup.kr/problemsetsol.php?psid=33
 
 <img src = "https://octodex.github.com/images/minion.png" width="100px">
+열심히 채우는 중입니다.
 
 # [이것이 코딩 테스트다](https://github.com/Study-Group-This-is-algorithm-test)
 
