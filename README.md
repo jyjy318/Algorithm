@@ -18,11 +18,11 @@
 |------|---|
 |[time](https://github.com/jyjy318/Algorithm/blob/master/Sort/time.py)|sort 알고리즘 실행 시간, 성능측정 |
 
-# [Dynamic Programming Algorithm]()
+# [Dynamic Programming Algorithm](https://github.com/jyjy318/Algorithm/tree/master/Dynamic%20Programming)
 |파일명|내용|
 |------|---|
-|[Fibonacci by Recursion]()|(비교를 위한) 재귀를 활용한 피보나치수열 구현|
-|[tile]()|2*1 과 2*2 타일을 |
+|[Fibonacci by Recursion](https://github.com/jyjy318/Algorithm/blob/master/Dynamic%20Programming/Fibonacci%20by%20Recursion.py)|(비교를 위한) 재귀를 활용한 피보나치수열 구현|
+|[tile](https://github.com/jyjy318/Algorithm/blob/master/Dynamic%20Programming/tile.py)|2*1 과 2*2 타일을 |
 
 # [Heap Algorithm](https://github.com/jyjy318/Algorithm/tree/master/Heap)
 |파일명|내용|
