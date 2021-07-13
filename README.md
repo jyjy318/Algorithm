@@ -22,7 +22,7 @@
 |파일명|내용|
 |------|---|
 |[Fibonacci by Recursion]()|(비교를 위한) 재귀를 활용한 피보나치수열 구현|
-|[]()||
+|[tile]()|2*1 과 2*2 타일을 |
 
 # [Heap Algorithm](https://github.com/jyjy318/Algorithm/tree/master/Heap)
 |파일명|내용|
