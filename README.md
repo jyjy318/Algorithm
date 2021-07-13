@@ -22,7 +22,8 @@
 |파일명|내용|
 |------|---|
 |[Fibonacci by Recursion](https://github.com/jyjy318/Algorithm/blob/master/Dynamic%20Programming/Fibonacci%20by%20Recursion.py)|(비교를 위한) 재귀를 활용한 피보나치수열 구현|
-|[tile](https://github.com/jyjy318/Algorithm/blob/master/Dynamic%20Programming/tile.py)|2*1 과 2*2 타일을 |
+|[tile](https://github.com/jyjy318/Algorithm/blob/master/Dynamic%20Programming/tile.py)|2*1 과 2*2 타일을 사용하여 바닥채우기 |
+|[coin](https://github.com/jyjy318/Algorithm/blob/master/Dynamic%20Programming/coin.py)|K개의 코인을 이용하여 금액 만들기 |
 
 # [Heap Algorithm](https://github.com/jyjy318/Algorithm/tree/master/Heap)
 |파일명|내용|
