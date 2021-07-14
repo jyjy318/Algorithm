@@ -30,6 +30,11 @@
 |------|---|
 |[time](https://github.com/jyjy318/Algorithm/blob/master/Heap/time.py)|Heapq 알고리즘 실행 시간, 성능측정|
 
+# [Graph Algorithm](https://github.com/jyjy318/Algorithm/tree/master/Graph)
+|파일명|내용|
+|------|---|
+|[island](https://github.com/jyjy318/Algorithm/blob/master/Graph/island.py)|섬을 의미하는 1과 바다를 의미하는 0을 이용하여 지도상의 섬의 개수 |
+
 # [CodeUp python 100제](https://github.com/jyjy318/Algorithm/tree/master/CodeUp)
 https://codeup.kr/problemsetsol.php?psid=33
 
