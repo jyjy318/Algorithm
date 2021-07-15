@@ -7,7 +7,11 @@
 Queue : FIFO(first in first out)
   - Enqueue : 큐에 데이터를 넣는 것 <br/>
   - Dequeue : 큐에서 데이터를 꺼내는 것 <br/>
- 
+
+[Queue 의 변형]<br/>
+1. LIFOQueue : last in first out 을 만족하는 Queue<br/>
+2. PriorityQueue : 우선순위 번호를 같이 지정해주는 것 <br/>
+
 |파일명|내용|
 |------|---|
 |[Queue Basic]()|Queue 기본구조 구현|
