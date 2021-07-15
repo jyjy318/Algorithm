@@ -4,7 +4,7 @@
 |[count frequency](https://github.com/jyjy318/Algorithm/blob/master/Array/count%20frequency.py)|배열에 든 영어 문장중 M이 나오는 횟수 구하기|
 
 # [Queue, Stack Algorithm](https://github.com/jyjy318/Algorithm/tree/master/Queue_Stack)
-<span style="color:red">Queue</span>: FIFO(first in first out)<br/>
+Queue : FIFO(first in first out)
   - Enqueue : 큐에 데이터를 넣는 것 <br/>
   - Dequeue : 큐에서 데이터를 꺼내는 것 <br/>
  
