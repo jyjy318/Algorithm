@@ -4,7 +4,7 @@
 |[count frequency](https://github.com/jyjy318/Algorithm/blob/master/Array/count%20frequency.py)|배열에 든 영어 문장중 M이 나오는 횟수 구하기|
 
 # [Queue, Stack Algorithm](https://github.com/jyjy318/Algorithm/tree/master/Queue_Stack)
-Queue : FIFO(first in first out)
+Queue : FIFO(first in first out), 주로 멀티 태스킹을 위한 프로세스 스케쥴링 방식을 구현하기 위해 많이 사용이 된다.<br/>
   - Enqueue : 큐에 데이터를 넣는 것 <br/>
   - Dequeue : 큐에서 데이터를 꺼내는 것 <br/>
 
