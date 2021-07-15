@@ -10,7 +10,7 @@ Queue : FIFO(first in first out)
 
 [Queue 의 변형]<br/>
 1. LIFOQueue : last in first out 을 만족하는 Queue<br/>
-2. [PriorityQueue] (https://github.com/jyjy318/Algorithm/blob/master/Queue_Stack/PriorityQueue.py) : 우선순위 번호를 같이 지정해주는 것 <br/>
+2. [PriorityQueue](https://github.com/jyjy318/Algorithm/blob/master/Queue_Stack/PriorityQueue.py) : 우선순위 번호를 같이 지정해주는 것 <br/>
 
 |파일명|내용|
 |------|---|
