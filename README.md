@@ -12,6 +12,10 @@ Queue : FIFO(first in first out), 주로 멀티 태스킹을 위한 프로세스
 1. LIFOQueue : last in first out 을 만족하는 Queue<br/>
 2. [PriorityQueue](https://github.com/jyjy318/Algorithm/blob/master/Queue_Stack/PriorityQueue.py) : 우선순위 번호를 같이 지정해주는 것 <br/>
 
+Stack : 한쪽 끝에서만 데이터를 넣고 뺄 수 있는 제한적인 구조, LIFO 정책을 따른다. <br/>
+  - push() : 데이터를 스택에 넣기<br/>
+  - pop() : 데이터를 스택에서 꺼내기<br/>
+ 
 |파일명|내용|
 |------|---|
 |[Queue Basic](https://github.com/jyjy318/Algorithm/blob/master/Queue_Stack/QueueBasic.py)|Queue 기본구조 구현|
