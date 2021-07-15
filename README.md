@@ -14,7 +14,7 @@ Queue : FIFO(first in first out), 주로 멀티 태스킹을 위한 프로세스
 
 |파일명|내용|
 |------|---|
-|[Queue Basic]()|Queue 기본구조 구현|
+|[Queue Basic](https://github.com/jyjy318/Algorithm/blob/master/Queue_Stack/QueueBasic.py)|Queue 기본구조 구현|
 |[postfix_operator](https://github.com/jyjy318/Algorithm/blob/master/Queue_Stack/postfix_operator.py)|후위연산자 구현|
 |[largest_number](https://github.com/jyjy318/Algorithm/blob/master/Queue_Stack/largest_number.py)|가장큰수 구하기|
 
