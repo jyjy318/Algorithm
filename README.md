@@ -53,6 +53,11 @@ Stack : 한쪽 끝에서만 데이터를 넣고 뺄 수 있는 제한적인 구�
 |------|---|
 |[island](https://github.com/jyjy318/Algorithm/blob/master/Graph/Island.py)|섬을 의미하는 1과 바다를 의미하는 0을 이용하여 지도상의 섬의 개수 |
 
+# [List Algorithm](https://github.com/jyjy318/Algorithm/blob/master/List)
+|파일명|내용|
+|------|---|
+|[링크드 리스트 구현](https://github.com/jyjy318/Algorithm/blob/master/List/LinkedList.py)|링크드리스트 알고리즘 기본 구현 |
+
 # [CodeUp python 100제](https://github.com/jyjy318/Algorithm/tree/master/CodeUp)
 https://codeup.kr/problemsetsol.php?psid=33
 
